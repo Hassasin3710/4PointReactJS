@@ -22,7 +22,7 @@ const HeaderFive = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Flone
+              4Point
             </a>
             .All Rights Reserved.
           </p>

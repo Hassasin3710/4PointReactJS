@@ -15,10 +15,10 @@ const Checkout = ({ location, cartItems, currency }) => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Flone | Checkout</title>
+        <title>4Point | Checkout</title>
         <meta
           name="description"
-          content="Checkout page of flone react minimalist eCommerce template."
+          content="Checkout page of 4point."
         />
       </MetaTags>
       <BreadcrumbsItem to={process.env.PUBLIC_URL + "/"}>Home</BreadcrumbsItem>

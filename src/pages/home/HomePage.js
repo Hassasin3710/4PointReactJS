@@ -9,10 +9,10 @@ const HomeFashionFour = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Flone | Fashion Home</title>
+        <title>4Point | Fashion Home</title>
         <meta
           name="description"
-          content="Fashion home of flone react minimalist eCommerce template."
+          content="Fashion home of 4point."
         />
       </MetaTags>
       <LayoutFive>

@@ -33,10 +33,10 @@ const Cart = ({
   return (
     <Fragment>
       <MetaTags>
-        <title>Flone | Cart</title>
+        <title>4Point | Cart</title>
         <meta
           name="description"
-          content="Cart page of flone react minimalist eCommerce template."
+          content="Cart page of 4point."
         />
       </MetaTags>
 
